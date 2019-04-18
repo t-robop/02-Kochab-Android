@@ -1,12 +1,3 @@
----
-name: new PR
-about: これ使って！
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## 何をしたか ( What )
 
 ## 何のためにしたか ( Why )
