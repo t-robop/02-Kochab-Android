@@ -1,12 +1,14 @@
 object Dependencies {
     object Version {
-        val kotlin = "1.2.71"
+        val kotlin = "1.3.30"
         val appcompat = "1.0.2"
         val androidx = "1.0.1"
         val constraint = "1.1.3"
         val runner = "1.1.1"
         val espresso = "3.1.1"
     }
+
+    val kotlinVersion = Version.kotlin
 
     val sdkVersion = 28
     val minSdkVersion = 16
